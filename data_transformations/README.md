@@ -4,4 +4,6 @@ cutting_slide_in_tiles.py - script, that was used to cut histological slides WSI
 
 dataset_to_yaml.py - script, that was used to convert labeled dataset from CVAT to splited on train/val/test dataset in yaml-format 
 
-xml_parser.py - script, that was used to parse xml with annotations, received from CVAT to folders with "images" and "labels" with keypoints of labeled objects on this images
+xml_parser.py - script, that was used to parse xml with annotations, received from CVAT to folders with "images" and "labels" with .txt with keypoints of labeled objects on this images
+
+generate_extended_dataset_images.py - script, that was used to add context (bounding boxes) to dataset images for proper cells annotation  on the borders while labelling in CVAT
