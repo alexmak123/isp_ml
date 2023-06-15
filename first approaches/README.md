@@ -1,4 +1,4 @@
-all these scripts were first approaches, until developing the final solution
+### all these scripts were first approaches, until developing the final solution
 
 first_nn_application.ipynb - notebook, that was made during first nn CenterNet application for stroma and epithelium detection on our histological slides
 
