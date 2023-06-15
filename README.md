@@ -1,6 +1,5 @@
 # isp_ml
-Task, that solves the problem of detecting chronical endometritis by counting stromal plasmatic cells.
-Plasmatic cells are counted with the use of a neural network and computer vision methods.
+Task, that solves the problem of detecting chronical endometritis by counting plasma cells on histological images.
+Plasma cells are counted with the use of a neural network and computer vision methods.
 
-This task is solved as my bachelor thesis work/scientific article for a gynecological conference. abstract-preview is already confirmed:
-<img width="917" alt="Снимок экрана 2023-03-16 в 16 33 51" src="https://user-images.githubusercontent.com/48695454/225633592-3427f9d0-ab1a-499b-9d01-1982b47397a5.png">
+This task is solved as my bachelor thesis work plus as a scientific poster for a gynecological conference [ecdp2023](https://www.ecdp2023.org/)
