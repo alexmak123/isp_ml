@@ -7,3 +7,5 @@ apply_one_class_model_for_a_tile.ipynb - notebook, that was made during changing
 definition_of_brown_color.ipynb - notebook, that was made during first count of hsv color that plasmatic cells have (this approach was wrong)
 
 plasma_cells_counter.ipynb - notebook, that was made for counting total amount of plasma cells on histological images in the specified directory
+
+search_for_plasmatic_cells.ipynb - notebook, that was made during counting results of the first approach when plasma cell was counted as stomal and hsv cut-off was applied
